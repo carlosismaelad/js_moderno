@@ -2,7 +2,7 @@
 Mais um dos rescursos incríveis do JavaScript moderno.
 
 Operador que permite espalhar (do ingês, 'spread') os elementos
-de um objeto interável, com um array ou uma string.
+de um objeto iterável, como um array ou uma string.
 
 Utiliza três pontos: ...iterableObject
 
